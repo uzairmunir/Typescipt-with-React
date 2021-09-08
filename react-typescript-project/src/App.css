@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(223, 221, 221);
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+  position: relative;
+}
+h1 {
+  color: crimson;
+}
